@@ -1,0 +1,11 @@
+venv/
+data/
+data_packed/
+.idea/
+deprecated/deprecated_functions.py
+protocol_aphasia_anomic.csv
+protocol_aphasia_anomic_preprocessed.csv
+english-results-data.csv
+main.py
+/protocol_control_preprocessed.csv
+/protocol_control.csv
